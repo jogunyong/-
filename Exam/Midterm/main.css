@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(72, 153, 242);
+    margin: 0;
+    padding: 0;
+    padding-top: 50px; /* 상단 간격을 50px로 설정 */
+}
+
+#myCanvas {
+    background-color: rgb(180, 180, 180);
+    display: block;
+    margin: 0 auto;
+    height: 800px; /* 높이를 800px에서 300px로 수정 */
+    width: 480px; /* 고정된 너비 480px로 설정 */
+}
